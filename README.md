@@ -40,14 +40,14 @@
 
 </p>
 
-### ⭐ Statistics and Languages
+### ⭐ Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yslmarques&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yslmarques&theme=tokyonight" />
 </p>
 
-<center><a href="https://www.youtube.com/channel/UC2s0S5ZN7qzsOz9IfgdiMiA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
-<a href="https://www.youtube.com/channel/UC2s0S5ZN7qzsOz9IfgdiMiA"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></center></a>
+<p align="center"><a href="https://www.youtube.com/channel/UC2s0S5ZN7qzsOz9IfgdiMiA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
+<a href="https://www.youtube.com/channel/UC2s0S5ZN7qzsOz9IfgdiMiA"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></p></a>
 
 
